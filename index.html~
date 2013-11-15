@@ -1,0 +1,247 @@
+<!doctype html>  
+<!--[if IE 6 ]><html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>Mapping Major ICT Copanies of Nepal || Worldlink</title>
+	
+	
+	<meta name="author" content="abhash" >
+	<link rel="stylesheet" href="css/documenter_style.css" media="all">
+	<link rel="stylesheet" href="css/custom.css" media="screen">
+
+	<script src="js/jquery.1.6.4.js"></script>
+	
+	<script src="js/jquery.scrollTo-1.4.2-min.js"></script>
+	<script src="js/jquery.easing.js"></script>
+	
+	<link rel="stylesheet" href="css/shDocumenter.css" media="screen">
+	<script src="js/shCore.js"></script>
+	<script src="js/shBrushXml.js"></script>
+	<script src="js/shBrushJScript.js"></script>
+	<script>SyntaxHighlighter.defaults['toolbar'] = false;SyntaxHighlighter.all();</script>
+
+	<script>document.createElement('section');var duration=500,easing='swing';</script>
+	<script src="js/script.js"></script>
+	
+	<style>
+		html{background-color:#EEEEEE;color:#383838;}
+		::-moz-selection{background:#333636;color:#00DFFC;}
+		::selection{background:#333636;color:#00DFFC;}
+		#documenter_sidebar #documenter_logo{background-image:url(assets/images/image_1.jpg);}
+		a{color:#008C9E;}
+		hr{border-top:1px solid #D4D4D4;border-bottom:1px solid #FFFFFF;}
+		#documenter_sidebar, #documenter_sidebar ol a{background-color:#343838;color:#FFFFFF;}
+		#documenter_sidebar ol a{-webkit-text-shadow:1px 1px 0px #494F4F;-moz-text-shadow:1px 1px 0px #494F4F;text-shadow:1px 1px 0px #494F4F;}
+		#documenter_sidebar ol{border-top:1px solid #212424;}
+		#documenter_sidebar ol a{border-top:1px solid #494F4F;border-bottom:1px solid #212424;color:#FFFFFF;}
+		#documenter_sidebar ol a:hover{background:#333636;color:#00DFFC;border-top:1px solid #333636;}
+		#documenter_sidebar ol a.current{background:#333636;color:#00DFFC;border-top:1px solid #333636;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+	</style>
+	
+</head>
+<body>
+	<div id="documenter_sidebar">
+		<a href="#documenter_cover" id="documenter_logo"></a>
+		<ol id="documenter_nav">
+			<li><a class="current" href="#profile">Profile</a></li>
+			
+			<li>
+			<a href="#investors">Investors</a>
+			</li>
+			<li><a href="#services">Services</a>
+				</li>
+			<li>
+			<a href="#coverages">Area Coverage</a>
+			</li>
+						
+			<li><a href="#csrpolicy">CSR Policy</a>
+			</li>
+			<li><a href="#employment">Employment</a>
+			</li>
+			<li>
+			<a href="#futures">Future Plan</a>
+			</li>
+			
+						<li><a href="#unions">Unions</a></li>
+				<li><a href="#contact_person">Contact Person</a></li>
+			
+
+		</ol>
+	<!--	<div id="documenter_copyright"><br>
+	
+		</div>-->
+	</div>
+	<div id="documenter_content">
+	
+	
+	<!--//////////////////////*                Cover          */////////////////////////////////////-->
+	<section id="documenter_cover">
+	<h3>Maping Major ICT Companies in Nepal</h3>
+</section>
+
+<!--//////////////*Document Cover Ends!!!*////////////////////////////-->
+
+
+<!--////////////////////             Company    Profile      ////////////////////////////////////////-->
+<section id="profile">
+	<h3>Worldlink Communications</h3><hr class="notop">
+<p>
+	<strong>WorldLink is one of the largest Internet Service Provider (ISP) in Nepal and one of the most prominent IT companies. <br>
+	Founded in September 1995 with the aim of providing Internet and IT services<br>
+	Started off by providing store-and-forward e-mail services over a dial-up link to the Internet in the US.<br>
+	 In March 1997, WorldLink started providing full Internet access over a dedicated leased-line to the Internet backbone in the US through Teleglobe International.<br>
+	 From September 1999 till June 2008, WorldLink has been connecting to the Internet over a direct satellite uplink through its own VSAT terminal, thereby completely bypassing Nepal Telecommunications Corporation, the local PTT</p>
+
+<h4>Profitability</h4>
+The company is the progress state. Its annual growth rate is around 20%
+
+
+<h4>Market </h4>
+<p>1%(88,568 ) of the total market share of the data/internet subscriber is of the ISPs.<br>
+19,450 (21.96% of ISPs )subsciber are using the service provided by worldlink.<br>
+Source: MIS report of NTA, Shrawan, 2070 (October, 2013)
+<img src="ispper.png" alt="isp share percentage" >
+
+</p>
+
+</section>
+
+
+
+
+
+
+
+<!-- -----------------Investors ------------------------->
+<section id="investors">
+	<h3>Investors</h3><hr>
+	
+	Investors of the companies are<br>
+	<ul>
+	<li>Dileep Agrawal (CEO and MD)</li>
+	<li>Manoj Agrawal</li>
+	<li>Bijay Jalan</li>
+	</ul>
+	There is no foreign investment no share of the public as well as employees of the company.
+	t
+</section>
+
+<!-- -----------------Investors  End Here------------------------->
+
+
+
+
+
+<!--////* Services*//////-->
+<section id="services">
+	<h3>Services</h3><hr >
+	<p>
+	<strong>Internet Telephony</strong><br>
+	Internet access refers to the means by which users connect to the Internet. Methods of access include Dial-up, Cable, Broadband and Wireless.<br>
+	<b>Internet Telephony</b></br>
+	Customers can make low-cost international calls to anywhere outside Nepal. <br>
+	Also provides solutions for voice communications within offices in Nepal and abroad using Internet Telephony technology.<br>
+	<b>dataSAFE Online Backup</b><br>
+	dataSAFE is WorldLink’s online data backup service.  After users download and install the dataSAFE application, whenever the user is connected to the Internet, the application automatically backs up files and folders selected by the user to the dataSAFE server located at WorldLink’s data center.<br>
+	<b>Data Networking</b><br>
+	<b>Web Services</b></br>
+	<b>Software Development</b></br>
+	<b>ICT Consultancy</b>	
+	</p>
+</section>
+
+<!--/////*Services End here*///////////-->
+
+
+
+
+
+
+<!-- coverages Starts Here ---------------------------------->
+<section id="coverages">
+	<h3>Area Coverage</h3><hr class="notop">
+<p>The area where it covers are shown </p>
+<img src="coverage.png" alt="Coverage of worldlink" height="450px" width="900px" ><br>
+<h5>Branches</h5>>
+<ol><li>Bhaktapur</li><li>Kalimati</li><li> New Baneshwor</li> <li>Chabahil</li><li> Maharajgung</li><li> New Plaza</li></ol>
+<h3></h3>
+</section>
+
+
+
+
+
+
+<section id="csrpolicy">
+<h3>CSR Policy</h3>
+The Company has strong CSR(Corporate Social Responsibility) Policy. It is generally involved in<br>
+<ul><li>Providing free internet on different camps</li>
+<li>Runs blood donation camp time by time</li>
+</section>
+
+<section id="employment">
+<h3>Employment Practises and Policies of the Companies</h3>
+
+<h4>Employment Recruitment Process</h4>
+<ul><li>Vacancy Announcement</li>
+<li>Internship (15 days training to the interns and the best of them can be recruited)</li></ul>
+
+<h4>Number of Employees</h4>
+<p>The number of employees is around 400<br>
+Out of them around 100 are females
+</p>
+
+<h4>Categories</h4>
+<p>The employees are categorized as per grading system.<br>
+The employee gets promotion as according to his/her performance and experience.</p>
+
+<h4>Salary</h4>
+<p>The salary is as per government rule. Initital salary starts from Rs 8,000 and differs as per the grading system of the company</p>
+<h4>Age</h4>
+<p>Average age of the employee is around 25 years</p>
+<h4>Issues</h4>
+<p>If employees fail in his duty, he is alerted what mistakes he has done. <br>
+If required, further training is provided to him. Have not kicked out any employees yet.</p>
+<h4>Turnover</h4>
+<p>Around 15% of the employees are changed annually.<br>
+The area where the employees go after leaving the company are as:<br>
+50% go to the foreign land for studies cum jo<br> 
+25% go to other companies due to attractive offers<br>
+Rest 25% starts there own business
+</p>
+<h4>Leave Policy</h4>
+<p>After a year of service, employee can take a leave of 30 days besides regular holidays.<br>
+If he does not take complete leave he will be provided with more facilities.</p>
+<h4>Overtime Policy</h4>
+<p>If employee have to work beyond regular time, then extra perks is provided.</p>
+<h4>Perks and benefits</h4>
+<p>Discounts on connection of internet<br>
+Trainings<br>
+Promotions etc.
+</p>
+</section>
+
+
+
+<section id="futures">
+<h3>Future</h3>
+The future plan of the company is to implement WiMax technology with making its market share more strong.
+</section>
+
+
+<section id="unions">
+<h3>Unions</h3>
+There is an union of the employees which cares for the betterness of the employees. Problems are notified to top level management via union.
+</section>
+
+
+<section id="contact_person">
+<h3>Contact Person</h3>
+Tirtha Acharya<br>
+Secretary-Union
